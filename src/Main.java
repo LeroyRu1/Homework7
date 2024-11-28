@@ -39,7 +39,7 @@ public class Main {
         while (years < 10) {
             people = people + birthrateTotal - deathrateTotal;
             years++;
-            System.out.println("Год " + years + ", численность населения составляем " + people);
+            System.out.println("Год " + years + ", численность населения составляет " + people);
         }
 
         //Задача 4
